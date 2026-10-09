@@ -1,1 +1,1 @@
-bge-embedding-large-zh
+registry.cn-hangzhou.aliyuncs.com/inscode/bge-large-zh-v1.5-sglang:latest
