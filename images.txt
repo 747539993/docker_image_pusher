@@ -1,1 +1,1 @@
-
+wkao/bge-embedding-large-zh:latest
